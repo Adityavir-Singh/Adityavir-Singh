@@ -3,7 +3,7 @@
 I’m Adityavir, a CS student at Ashoka University.
 
 - 🌱 I’m interested in **Cryptography**
-- 📫 You can reach me via **adityavir.singh_phd22@ashoka.edu.in**
+- 📫 You can reach out to me at : **adityavir.singh_phd22@ashoka.edu.in**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
