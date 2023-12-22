@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adityavir Singh</h1>
-<h3 align="center">I am a Computer Science student at Ashoka University.</h3>
+<h3 align="center">I'm a Computer Science student at Ashoka University.</h3>
 
 - 🌱 I’m interested in **Cryptography**
 
