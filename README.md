@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Adityavir Singh</h1>
-<h3 align="center">I'm a Computer Science student at Ashoka University.</h3>
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I’m Adityavir Singh, a CS student at Ashoka University.
 
 - 🌱 I’m interested in **Cryptography**
 
