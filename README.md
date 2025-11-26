@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m Adityavir, a CS student at Ashoka University.
+I’m Adityavir, a PhD scholar in the Computer Science department at Ashoka University.
 
 - 🌱 I’m interested in **Cryptography** and **Network Security**
 - 📫 You can reach out to me at : **adityavir.singh_phd22@ashoka.edu.in**
